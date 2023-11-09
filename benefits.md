@@ -1,3 +1,5 @@
+Absolutely!
+
 Our stories aren't just for fun - these challenges actually replicate real business analytics problems.
 
 As you learn to solve these problems, you'll write and test your code on the fly, and craft your very own amazing portfolio.
