@@ -13,3 +13,7 @@ It's a Role Playing Game (RPG)
 It's my dream of learning data "fun"
 
 And more "real" applications
+
+It's a unique experience so I cannot fully describe it yet
+
+How about you give it a try ?
