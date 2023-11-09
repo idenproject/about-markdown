@@ -1,9 +1,17 @@
 Absolutely!
 
-Our stories aren't just for fun - these challenges actually replicate real business analytics problems.
+Our stories aren't just for fun
 
-As you learn to solve these problems, you'll write and test your code on the fly, and craft your very own amazing portfolio.
+These challenges actually replicate real business analytics problems.
 
-With projects like real-time dashboards, facial recognition apps, and NoSQL or Graph databases hosted on the cloud.
+You'll write and test your code on the fly
 
-All while retrieving all the treasures in the City of Iden !
+And craft your very own data portfolio.
+
+Like real-time dashboards,
+
+facial recognition apps,
+
+and NoSQL or Graph databases hosted on the cloud.
+
+All while finding the treasures in the City of Iden !
