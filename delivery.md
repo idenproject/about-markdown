@@ -2,18 +2,18 @@ Our program is both in-person and online.
 
 The in-person workshops series are called "Act"
 
-Each workshop is 3-hour long with a lot of interactive activities
+Each workshop is 3-hour long with coding challenges and professional development skill sharing sessions.
 
-With real commercial data problems you probably have not worked on
+We focus on commercial-inspired data topics you probably have not worked on at university.
 
-The workshops are limited, so after you register your interests,
+You can attend any workshop you like, but they are limited, 
 
-We will send you an invitation.
+so please register your interests, and we will send you an invitation.
 
-The online series are called "Subquest"
+The online series are called "Subquest".
 
-These are downloadable Jupyter Notebook to practice data science skills
+These are downloadable Jupyter Notebook to practice data science skills.
 
-With original datasets and content
+Guaranteed original datasets, guided instructions,
 
-As well as hints and even a skill tree to unlock !
+And even a skill tree to unlock !
